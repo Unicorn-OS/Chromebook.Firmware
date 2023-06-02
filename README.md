@@ -1,4 +1,4 @@
-# Chromebook UEFI
+# Chromebook Firmware
 Home: https://mrchromebox.tech/
 
 
